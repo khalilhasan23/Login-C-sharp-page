@@ -1,0 +1,32 @@
+body{
+    background-color: #152733;
+}
+
+.logo{
+    height: 45px;
+    margin-top: 150px;
+
+}
+
+.login{
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.inp{
+    margin-bottom: 14px;
+    margin-top: 19px;
+}
+
+.but{
+    background-color: #1592E6;
+    color: #fff;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.16);
+    border-radius: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    border: none;
+    padding-bottom: 10px;
+}
